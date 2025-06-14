@@ -1,2 +1,2 @@
 # verson_first
-this is my firfst repo
+this is my first repo
